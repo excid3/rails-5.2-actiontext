@@ -1,0 +1,11 @@
+{
+  "name": "texty",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "https://github.com/rails/webpacker",
+    "actiontext": "https://github.com/rails/actiontext"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.1.9"
+  }
+}
